@@ -67,7 +67,7 @@ p{
     color:white;
     font-family:sans-serif;
     -webkit-text-fill-color: rgb(46, 58, 224);
-    -webkit-text-stroke-width:1px;
+    -webkit-text-stroke-width:0.5px;
 }
 
 button{
